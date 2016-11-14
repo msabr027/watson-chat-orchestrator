@@ -1,0 +1,9 @@
+---
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  name: watson-chat-orchestrator-v4
+  host: watson-chat-orchestrator-v4
+  disk_quota: 1024M
+  buildpack: python_buildpack
