@@ -85,7 +85,7 @@ button, input[type="submit"] {
 			background-color: rgba(135, 188, 64, .2);
 		}
 			.Watson:before {
-				background: url(../images/watson.png) no-repeat center center rgba(6, 150, 215, .5); 
+				background: url(../images/artificial-intelligence.png) no-repeat center center rgba(6, 150, 215, .5); 
 				background-size: 80%;
 			}
 			.Partner:before {
